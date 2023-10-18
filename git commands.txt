@@ -16,3 +16,4 @@ git merge <branch name> : merge a branch into the active branch.
 git reset <commit id> : reset the change in the local repo.
 git revert <commit id> : reset the change in the remote repo.
 git show <commit id> : show the change done in the commit.
+
